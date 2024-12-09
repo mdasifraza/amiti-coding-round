@@ -13,9 +13,13 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@hookform/error-message": "^2.0.1",
+    "@hookform/resolvers": "^3.9.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.13.0"
+    "react-hook-form": "^7.54.0",
+    "react-router-dom": "^6.13.0",
+    "yup": "^1.5.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
